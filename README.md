@@ -9,7 +9,7 @@
 - ⚡ 재미있는 사실: 하기 싫은데 또 정말 하고 싶은게 영상입니다.
 
 ## 🛠 기술 스택
-- **영상**: fanal cut pro, premiere pro
+- **영상**: final cut, premiere pro
 - **디자인 2D 3D**: after effect, photoshop
 - **언어**: HTML, Javascript
 - **스타일링**: CSS
