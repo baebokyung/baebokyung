@@ -9,11 +9,11 @@
 - ⚡ 재미있는 사실: 하기 싫은데 또 정말 하고 싶은게 영상입니다.
 
 ## 🛠 기술 스택
-- **영상**: final cut, premiere pro
-- **디자인 2D 3D**: after effect, photoshop
+- **영상툴**: Final cut, Premiere pro
+- **디자인툴 2D 3D**: After effect, Figma, Photoshop
 - **언어**: HTML, Javascript
 - **스타일링**: CSS
-- **툴**: GitHub, Figma, Visual Studio Code
+- **기타 툴**: GitHub, Visual Studio Code
 
 ## 💻 언어 사용량 통계
 
