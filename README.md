@@ -1,22 +1,19 @@
 # 안녕하세요, 저는 배보경입니다!
 
-## 👨‍💻 프론트엔드 개발자
+## 👨‍💻 영상인
 
 - 🔭 현재 [회사명]에서 근무 중입니다.
-- 🌱 현재 `React.js`, `Next.js`와 같은 현대적인 JavaScript 프레임워크를 공부하고 있습니다.
-- 👯 다른 개발자들과 협력하여 오픈 소스 프로젝트에 기여하고 싶습니다.
+- 🌱 현재 더 나은 영상인이 되기 위해 공부 중입니다.
+- 👯 호흡하는 영상을 만들고 싶습니다.
 - 🤔 사용자 경험을 개선하기 위한 아이디어를 찾고 있습니다.
-- 💬 `JavaScript`, `React`, `CSS` 등에 관해 이야기하는 것을 좋아합니다.
-- 📫 연락 방법: [이메일 주소]
-- 😄 대명사: He/Him
-- ⚡ 재미있는 사실: 커피 없이는 코드를 작성할 수 없습니다!
+- ⚡ 재미있는 사실: 하기 싫은데 또 정말 하고 싶은게 영상입니다.
 
 ## 🛠 기술 스택
-- **언어**: JavaScript (ES6+), TypeScript
-- **프레임워크 및 라이브러리**: React.js, Next.js, Redux, Recoil, Axios
-- **스타일링**: CSS, SCSS, Emotion
-- **툴**: Git, GitHub, Figma, Visual Studio Code
-- **기타**: Responsive Design, RESTful API, GraphQL
+- **영상**: fanal cut pro, premiere pro
+- **디자인 2D 3D**: after effect, photoshop
+- **언어**: HTML, Javascript
+- **스타일링**: CSS
+- **툴**: GitHub, Figma, Visual Studio Code
 
 ## 💻 언어 사용량 통계
 
